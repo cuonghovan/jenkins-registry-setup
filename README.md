@@ -1,7 +1,7 @@
-# jenkins-registry-setup
-Setup Jenkins and docker-registry with docker-composer
+# jenkins-setup
+Setup Jenkins with docker-composer
 
-Run Jenkins and docker-registry container:
+Run Jenkins container:
 
 ```
 docker-compose up -d
